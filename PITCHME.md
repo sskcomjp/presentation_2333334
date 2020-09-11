@@ -43,6 +43,7 @@ Are you REady?
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
+- メンバー紹介
 - 💛 PLEN .. SHOUJI
 - 💛 PLEN,, KITAJIMA
 - 💛 PLEN "" SHIPON
@@ -50,16 +51,6 @@ Are you REady?
 @ulend
 @snapend
 
-
-
-
-@snap[west span-55]
-@ul[list-spaced-bullets text-09]
--💛 PLEN .. SHOUJI/
--💛 PLEN,, KITAJIMA/
--💛 PLEN "" SHIPON
-@ulend
-@snapend
 
 
 ---
