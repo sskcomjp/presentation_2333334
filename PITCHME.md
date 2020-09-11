@@ -1,8 +1,25 @@
-### 一枚目
----?image=assets/img/stormtroopers.jpg
+###
+💛💛💛💛💛💛PLEN 💛💛💛💛💛💛💛
+-----
+### 
+Going To Show Some MAgic
 
-### No apologies needed.
-### Just Markdown Image Magic.
+-----
+###
+Are you REady?
+----
+###
+3
+---
+###
+2
+---
+###
+1
+---
+
+
+###
 
 
 ---
