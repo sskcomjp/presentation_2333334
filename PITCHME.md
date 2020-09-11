@@ -1,9 +1,13 @@
+
+
+💛💛💛💛PLEN 💛💛💛💛
+
 ---?color=linear-gradient(180deg, white 75%, black 25%) @title 💛💛💛💛PLEN 💛💛💛💛
 
 @snap[west span-55]
 
-💛💛💛💛PLEN 💛💛💛💛
----?image=assets/img/pd_plen201.JPG
+
+---?image=pd_plen201.JPG
 
 -----
 
