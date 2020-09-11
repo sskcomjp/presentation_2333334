@@ -1,4 +1,4 @@
-
+---?color=linear-gradient(180deg, white 75%, black 25%)
 
 💛💛💛💛PLEN 💛💛💛💛
 
@@ -8,30 +8,36 @@
 
 -----
 
-
+---?color=linear-gradient(180deg, white 75%, black 25%)
 Going To Show Some MAgic
 
------
 
----?color=linear-gradient(180deg, white 75%, black 25%)
+
+
 
 ----
 
-
+---?color=linear-gradient(180deg, white 75%, black 25%)
 Are you REady?
----?color=linear-gradient(180deg, white 75%, black 25%)
+
 
 
 ----
+
+---?color=linear-gradient(180deg, white 75%, black 25%)
 3
 
 
 ---
+
+---?color=linear-gradient(180deg, white 75%, black 25%)
 2
 
 
 
 ---
+
+---?color=linear-gradient(180deg, white 75%, black 25%)
 1
 
 
@@ -56,7 +62,7 @@ Are you REady?
 
 ---
 
-
+---?color=linear-gradient(180deg, white 75%, black 25%)
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-09]
@@ -72,6 +78,8 @@ Are you REady?
 
 ---
 
+
+---?color=linear-gradient(180deg, white 75%, black 25%)
 @snap[west span-100]
 @ul[list-spaced-bullets text-09]
 - 目的
@@ -87,7 +95,7 @@ Are you REady?
 ----
 
 
-
+---?color=linear-gradient(180deg, white 75%, black 25%)
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-09]
@@ -104,7 +112,7 @@ Are you REady?
 ---
 
 
-
+---?color=linear-gradient(180deg, white 75%, black 25%)
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-09]
@@ -121,7 +129,7 @@ Are you REady?
 
 
 
-
+---?color=linear-gradient(180deg, white 75%, black 25%)
 @snap[west span-100]
 @ul[list-spaced-bullets text-09]
 - 今後の課題
