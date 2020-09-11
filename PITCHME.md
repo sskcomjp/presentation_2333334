@@ -57,19 +57,29 @@ Are you REady?
 
 
 
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+- 背景
+- 今、コロナのせいで人同士の距離をとらなければならない
+- 人と接触する機会が減っている
 
-背景
 
-!今、コロナのせいで人同士の距離をとらなければならない/
+@ulend
+@snapend
 
-!人と接触する機会が減っている
+
 
 ---
 
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
 
-目的
+- 目的
 
-その背景をPLENに反映させ学習教材として子供たちに視覚的に楽しんでもらう
+- その背景をPLENに反映させ学習教材として子供たちに視覚的に楽しんでもらう
+
+@ulend
+@snapend
 
 
 ----
