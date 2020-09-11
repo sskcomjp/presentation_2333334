@@ -60,9 +60,7 @@ Are you REady?
 @snap[west span-80]
 @ul[list-spaced-bullets text-09]
 - 背景
-
 - 今、コロナのせいで人同士の距離をとらなければならない
-
 - 人と接触する機会が減っている
 
 
@@ -76,7 +74,6 @@ Are you REady?
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
 - 目的
-
 - その背景をPLENに反映させ学習教材として子供たちに視覚的に楽しんでもらう
 
 @ulend
@@ -94,9 +91,7 @@ Are you REady?
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
 - 方法
-
 - PLENをスマホで操作してもらい、PLEN同士の距離によってスマホへ何種類かのフィードバックを送る
-
 - 例えば、距離の近さによってスマホ上の💛の数が変わる
 
 @ulend
@@ -113,7 +108,6 @@ Are you REady?
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
 - デモ
-
 - 距離を近づけると💛が表示される
 
 @ulend
@@ -128,13 +122,16 @@ Are you REady?
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
 - 今後の課題
-
 - アクションや💛の数をパターンによって増やす
-
 - 単に距離だけでなくPLENの近づきかたのパターンによってアクションを変える
 
 @ulend
 @snapend
+
+
+
+
+
 
 
 
