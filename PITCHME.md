@@ -38,8 +38,8 @@ Are you REady?
 
 
 メンバー紹介
-💛 PLEN .. SHOUJI
-💛 PLEN,, KITAJIMA
+💛 PLEN .. SHOUJI/
+💛 PLEN,, KITAJIMA/
 💛 PLEN "" SHIPON
 
 
@@ -50,7 +50,7 @@ Are you REady?
 
 背景
 
-!今、コロナのせいで人同士の距離をとらなければならない
+!今、コロナのせいで人同士の距離をとらなければならない/
 
 !人と接触する機会が減っている
 
