@@ -34,23 +34,19 @@ Are you REady?
 1
 
 
----
 
-@snap[west span-55]
-@ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
-@ulend
-@snapend
+
 ----
 
 
 メンバー紹介
-💛 PLEN .. SHOUJI/
-💛 PLEN,, KITAJIMA/
-💛 PLEN "" SHIPON
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+-💛 PLEN .. SHOUJI/
+-💛 PLEN,, KITAJIMA/
+-💛 PLEN "" SHIPON
+@ulend
+@snapend
 
 
 ---
