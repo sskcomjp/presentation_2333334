@@ -2,12 +2,9 @@
 
 💛💛💛💛PLEN 💛💛💛💛
 
----?color=linear-gradient(180deg, white 75%, black 25%) @title 💛💛💛💛PLEN 💛💛💛💛
-
-@snap[west span-55]
 
 
----?image=pd_plen201.JPG
+
 
 -----
 
@@ -22,7 +19,7 @@ Going To Show Some MAgic
 
 
 Are you REady?
-
+---?color=linear-gradient(180deg, white 75%, black 25%)
 
 
 ----
@@ -44,7 +41,7 @@ Are you REady?
 
 
 
-
+---?color=linear-gradient(180deg, white 75%, black 25%)
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
 - メンバー紹介
