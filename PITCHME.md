@@ -39,7 +39,7 @@ Are you REady?
 ----
 
 
-メンバー紹介
+
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
