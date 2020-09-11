@@ -40,6 +40,19 @@ Are you REady?
 
 
 メンバー紹介
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+- 💛 PLEN .. SHOUJI
+- 💛 PLEN,, KITAJIMA
+- 💛 PLEN "" SHIPON
+
+@ulend
+@snapend
+
+
+
+
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
 -💛 PLEN .. SHOUJI/
