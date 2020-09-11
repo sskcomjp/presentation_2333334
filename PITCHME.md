@@ -73,10 +73,34 @@ Are you REady?
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
-
 - 目的
-
 - その背景をPLENに反映させ学習教材として子供たちに視覚的に楽しんでもらう
+
+@ulend
+@snapend
+
+
+
+
+----
+
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+- 方法
+- PLENをスマホで操作してもらい、PLEN同士の距離によってスマホへ何種類かのフィードバックを送る
+- 例えば、距離の近さによってスマホ上の💛の数が変わる
+
+@ulend
+@snapend
+
+
+---
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+- デモ
+- 距離を近づけると💛が表示される
 
 @ulend
 @snapend
@@ -85,31 +109,15 @@ Are you REady?
 ----
 
 
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+- 今後の課題
+- アクションや💛の数をパターンによって増やす
+- 単に距離だけでなくPLENの近づきかたのパターンによってアクションを変える
 
-方法
+@ulend
+@snapend
 
-PLENをスマホで操作してもらい、PLEN同士の距離によってスマホへ何種類かのフィードバックを送る
-
-例えば、距離の近さによってスマホ上の💛の数が変わる
-
----
-
-
-デモ
-
-距離を近づけると💛が表示される
-
-
-----
-
-
-
-今後の課題
-
-アクションや💛の数をパターンによって増やす
-
-
-単に距離だけでなくPLENの近づきかたのパターンによってアクションを変える
 
 
 -----
