@@ -106,9 +106,7 @@
 @snap[west span-100]
 ##  @color[black](今後の課題)
 @ul[list-spaced-bullets text-center]
-@snap[north span+100]
 - アクションや💛の数をパターンによって増やす
-@snapend
 - 単に距離だけでなくPLENの近づきかたのパターンによってアクションを変える
 - 元々あるPLENのアプリとの連携をどうするか
 
@@ -123,7 +121,7 @@
 
 
 
----
+
 
 
 
