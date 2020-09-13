@@ -1,7 +1,10 @@
 ---
-# @size [3.5em] (💛💛💛💛PLEN 💛💛💛💛)
-
 ?color=linear-gradient(180deg, white 75%, black 25%)
+
+
+# @size [3.5em] (PLEN 💛)
+
+
 
 
 
