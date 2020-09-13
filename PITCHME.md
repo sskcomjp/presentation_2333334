@@ -14,8 +14,10 @@
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @snap[west span-55]
-@ul[list-spaced-bullets text-09]
+---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[メンバー紹介]
+@ul[list-spaced-bullets text-09]
+
 - 💛 PLEN .. SHOUJI
 - 💛 PLEN,, KITAJIMA
 - 💛 PLEN "" SHIPON
