@@ -107,7 +107,6 @@
 ##  @color[black](今後の課題)
 @ul[list-spaced-bullets text-20]
 - アクションや💛の数をパターンによって増やす
-
 - 単に距離だけでなくPLENの近づきかたのパターンによってアクションを変える
 
 @ulend
