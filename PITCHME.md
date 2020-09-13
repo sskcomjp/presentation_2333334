@@ -1,6 +1,6 @@
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 
-💛💛💛💛PLEN 💛💛💛💛
+#💛💛💛💛PLEN 💛💛💛💛
 
 
 
@@ -14,7 +14,7 @@
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @snap[west span-55]
-@title[メンバー紹介]
+#メンバー紹介
 @ul[list-spaced-bullets text-09]
 
 - 💛 PLEN .. SHOUJI
