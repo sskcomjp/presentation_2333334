@@ -20,7 +20,7 @@
 
 @snap[west span-55]
 ##  @color[black](メンバー紹介)
-@ul[list-spaced-bullets text-09]
+@ul[list-spaced-bullets text-10]
 - 💛 PLEN .. SHOUJI
 - 💛 PLEN,, KITAJIMA
 - 💛 PLEN "" SHIPON
