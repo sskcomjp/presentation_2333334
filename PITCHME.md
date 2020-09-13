@@ -105,7 +105,7 @@
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @snap[west span-100]
 ##  @color[black](今後の課題)
-@ul[list-spaced-bullets text-09]
+@ul[list-spaced-bullets text-]
 - アクションや💛の数をパターンによって増やす
 - 単に距離だけでなくPLENの近づきかたのパターンによってアクションを変える
 
