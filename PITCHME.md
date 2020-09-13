@@ -103,7 +103,7 @@
 
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-@snap[west span10]
+@snap[west span 5]
 @snap[west span-100]
 ##  @color[black](今後の課題)
 @ul[list-spaced-bullets text-]
