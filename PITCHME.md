@@ -1,6 +1,8 @@
----?color=linear-gradient(180deg, white 75%, black 25%)
-
+---
 # 💛💛💛💛PLEN 💛💛💛💛
+
+?color=linear-gradient(180deg, white 75%, black 25%)
+
 
 
 
@@ -11,9 +13,9 @@
 
 
 
-
----?color=linear-gradient(180deg, white 75%, black 25%)
 ## メンバー紹介
+---?color=linear-gradient(180deg, white 75%, black 25%)
+
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
 
