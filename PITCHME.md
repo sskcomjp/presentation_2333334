@@ -85,6 +85,7 @@
 ##  @color[black](理由)
 @ul[list-spaced-bullets text-20]
 - 以前、小学校にPLENの紹介をしに行った時、ハグや告白といったアクションのウケがよかった
+-また、大きな動きもウケがよかった
 
 
 @ulend
