@@ -32,7 +32,7 @@
 
 
 
----
+
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 
@@ -48,7 +48,7 @@
 
 
 
----
+
 
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
@@ -64,7 +64,7 @@
 
 
 
-----
+
 
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
@@ -79,9 +79,20 @@
 @snapend
 
 
+---?color=linear-gradient(180deg, white 75%, black 25%)
+
+@snap[west span-100]
+##  @color[black](理由)
+@ul[list-spaced-bullets text-20]
+- 以前、小学校にPLENの紹介をしに行った時、ハグや告白といったアクションのウケがよかった
+- 
+
+@ulend
+@snapend
 
 
----
+
+
 
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
@@ -95,7 +106,7 @@
 @snapend
 
 
----
+
 
 
 
