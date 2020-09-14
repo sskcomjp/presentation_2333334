@@ -24,7 +24,9 @@
 ##  @color[black](メンバー紹介)
 @ul[list-spaced-bullets text-09]
 - 💛 PLEN .. SHOUJI
+
 - 💛 PLEN,, KITAJIMA
+
 - 💛 PLEN "" SHIPON
 
 @ulend
