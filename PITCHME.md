@@ -39,9 +39,7 @@
 @snap[west span-100]
 ##  @color[black](背景)
 @snap[west span-55] @ul[list-spaced-bullets text-09]
-
 - 今、コロナのせいで人同士の距離をとらなければならない
-
 - 人と接触する機会が減っている
 
 
