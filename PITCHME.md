@@ -96,15 +96,7 @@
 
 
 
----?color=linear-gradient(180deg, white 75%, black 25%)
 
-@snap[west span-100]
-##  @color[black](デモ)
-@ul[list-spaced-bullets text-20]
-- 距離を近づけると💛が表示される
-
-@ulend
-@snapend
 
 
 
