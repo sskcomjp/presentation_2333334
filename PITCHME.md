@@ -22,7 +22,7 @@
 
 @snap[west span-55]
 ##  @color[black](メンバー紹介)
-@ul[list-spaced-bullets text-20]
+@ul[list-spaced-bullets text-09]
 - 💛 PLEN .. SHOUJI
 - 💛 PLEN,, KITAJIMA
 - 💛 PLEN "" SHIPON
@@ -38,7 +38,7 @@
 
 @snap[west span-100]
 ##  @color[black](背景)
-@ul[list-spaced-bullets text-20]
+@ul[list-spaced-bullets text-09]
 - 今、コロナのせいで人同士の距離をとらなければならない
 - 人と接触する機会が減っている
 
@@ -54,7 +54,7 @@
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @snap[west span-100]
 ##  @color[black](目的)
-@ul[list-spaced-bullets text-20]
+@ul[list-spaced-bullets text-09]
 - その背景をPLENに反映させ学習教材として子供たちに視覚的に楽しんでもらう
 
 @ulend
@@ -71,7 +71,7 @@
 
 @snap[west span-100]
 ##  @color[black](方法)
-@ul[list-spaced-bullets text-20]
+@ul[list-spaced-bullets text-09]
 - PLENをスマホで操作してもらい、PLEN同士の距離によってスマホへ何種類かのフィードバックを送る
 - 例えば、距離の近さによってスマホ上の💛の数が変わる
 
@@ -83,7 +83,7 @@
 
 @snap[west span-100]
 ##  @color[black](理由)
-@ul[list-spaced-bullets text-20]
+@ul[list-spaced-bullets text-09]
 - 以前、小学校にPLENの紹介をしに行った時、ハグや告白といったアクションのウケがよかった
 - また、大きな動きもウケがよかった
 
